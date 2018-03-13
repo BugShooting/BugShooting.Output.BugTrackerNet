@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+			<id>BugShooting.Output.BugTrackerNet</id>
+			<version>1.0.0</version>
+			<title>BugTracker.NET Output for Bug Shooting</title>
+      <authors>Bug Shooting, Alexej Hirsch</authors>
+      <owners>Bug Shooting, Alexej Hirsch</owners>
+      <licenseUrl>https://github.com/BugShooting/BugShooting.Output.BugTrackerNet/raw/master/LICENSE.txt</licenseUrl>
+			<projectUrl>https://github.com/BugShooting</projectUrl>
+			<iconUrl>https://github.com/BugShooting/BugShooting.Output.BugTrackerNet/raw/master/BugShooting.Output.BugTrackerNet/Resources/logo_64.png</iconUrl>
+			<requireLicenseAcceptance>false</requireLicenseAcceptance>
+			<releaseNotes />
+			<description>Attach screenshots to BugTracker.NET bugs.</description>
+			<copyright />
+			<tags>bugshooting.plugin.v3.output</tags>
+      <packageTypes>
+        <packageType name="bugshooting.plugin.v3.output" />
+      </packageTypes>
+    </metadata>
+    <files>
+			<file src="BugShooting.Output.BugTrackerNet.dll" />
+    </files>
+</package>
